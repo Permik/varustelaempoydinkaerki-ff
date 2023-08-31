@@ -1,0 +1,18 @@
+{
+    "popup_title":{"message": "Morjesta, klikkaa alta ja näpäytä lisäosaa uudelleen Varustelekan nimilappusivulla!"},
+    "popup_go":{"message": "Nimilappustoksille!"},
+    "popup_go_title":{"message": "Aukeaa uuteen välilehteen"},
+    "popup_go_url":{"message": "https://www.varusteleka.fi/fi/product/sarma-tst-m05-nimilappu-omalla-tekstilla-3-pack/35030"},
+    "sidepanel_title":{"message": "Varustelämpöydinkärki — Turbolaputin"},
+    "sidepanel_subtitle":{"message": "Kuinka tätä laitosta ajetaan?"},
+    "sidepanel_item0":{"message": "Klikkaa haluamasi lapputyyppi auki varustelekan verkkokaupassa"},
+    "sidepanel_item1":{"message": "Lisää haluamasi laput listaan alle"},
+    "sidepanel_item2":{"message": "Paina tallenna niin saat uuden kentän kirjoitettavaksi"},
+    "sidepanel_item3":{"message": "Lisätäksesi laput ostoskoriisi, klikkaa listan alla olevaa isoa punaista \"laukaise\"-näppäintä"},
+    "sidepanel_item4":{"message": "Listan nimet ovat nyt varustelekan ostoskorissasi"},
+    "sidepanel_legend":{"message": "Nimilista"},
+    "sidepanel_save":{"message": "Tallenna"},
+    "sidepanel_paste":{"message": "Liitä leikepöydältä"},
+    "sidepanel_clear":{"message": "Tyhjennä"},
+    "sidepanel_launch":{"message": "LAUKAISE"}
+}

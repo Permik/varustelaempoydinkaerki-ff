@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>My Sidepanel</title>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="sidepanel.css">
+  </head>
+  <body>
+    <h1 id="title">Varustelämpöydinkärki — Turbolaputin</h1>
+    <em>
+        <h2 id="subtitle">Kuinka tätä laitosta ajetaan?</h2>
+    </em>
+    <ol>
+        <li id="item0">Klikkaa haluamasi lapputyyppi auki</li>
+        <li id="item1">Lisää haluamasi laput listaan alle</li>
+        <li id="item2">Paina tallenna niin saat uuden kentän kirjoitettavaksi</li>
+        <li id="item3">Lisätäksesi laput ostoskoriisi, klikkaa listan alla olevaa isoa punaista "laukaise"-näppäintä</li>
+        <li id="item4">Listan nimet ovat nyt varustelekan ostoskorissasi</li>
+    </ol>
+    <fieldset>
+        <legend id="legend">Nimilista</legend>
+        <div id="list">
+
+        </div>
+    </fieldset>
+    <div class="btn-flex">
+        <button id="save">Tallenna</button>
+        <button id="paste">Liitä lista leikepöydältä</button>
+        <button id="clear">Tyhjennä</button>
+        <button id="launch">LAUKAISE</button>
+    </div>
+    <script src="sidepanel.js"></script>
+  </body>
+</html>

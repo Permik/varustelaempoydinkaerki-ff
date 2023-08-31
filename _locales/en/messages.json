@@ -1,0 +1,18 @@
+{
+    "popup_title":{"message": "Diddily-ho, click below and re-click the extension when you've arrived at Varusteleka name tag page!"},
+    "popup_go":{"message": "To name tag shopping!"},
+    "popup_go_title":{"message": "Opens in a new tab"},
+    "popup_go_url":{"message": "https://www.varusteleka.com/en/product/sarma-tst-m05-name-tag-w-custom-text-3-pack/35030"},
+    "sidepanel_title":{"message": "Varustelämpöydinkärki (Accessory thermonuclear warhead) — Turbotagger"},
+    "sidepanel_subtitle":{"message": "How does one turbotag?"},
+    "sidepanel_item0":{"message": "Click open the name tag variety that you want to add to your cart in the Varusteleka-website"},
+    "sidepanel_item1":{"message": "Add the names that you want a tag of to the list below"},
+    "sidepanel_item2":{"message": "By clicking the save button you get a new field to add a new name to"},
+    "sidepanel_item3":{"message": "To add the names to your shopping cart, press the big red \"LAUNCH\"-button below"},
+    "sidepanel_item4":{"message": "Now the names that you've added to your list will be in your shopping cart."},
+    "sidepanel_legend":{"message": "Name list"},
+    "sidepanel_save":{"message": "Save"},
+    "sidepanel_paste":{"message": "Paste from clipboard"},
+    "sidepanel_clear":{"message": "Clear"},
+    "sidepanel_launch":{"message": "LAUNCH"}
+}
