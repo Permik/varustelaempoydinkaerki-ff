@@ -37,5 +37,10 @@
   "host_permissions": [
     "https://www.varusteleka.fi/fi/product/sarma-tst-m05-nimilappu-omalla-tekstilla-3-pack/35030",
     "https://www.varusteleka.com/en/product/sarma-tst-m05-name-tag-w-custom-text-3-pack/35030"
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "santtuojanperadev@gmail.com"
+    }
+  }
 }
